@@ -1,9 +1,9 @@
 # calculator-javascript
 
-Calculator development with:
+## Calculator development with:
 
-CSS
-HTML
-Javascript
+- CSS
+- HTML
+- Javascript
 
-<a href=“https://andersoncgiusti.github.io/calculator-javascript/“>Calculator</a>
+![](href=“https://andersoncgiusti.github.io/calculator-javascript/“)
