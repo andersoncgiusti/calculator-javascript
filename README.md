@@ -7,7 +7,7 @@
 - Javascript
 
 <p align="center">
-  <a href=“https://andersoncgiusti.github.io/calculator-javascript/“ target="blank">Calculator</a>
+  <a target="blank">![](href=“https://andersoncgiusti.github.io/calculator-javascript/“)Calculator</a>
 </p>
 
 
