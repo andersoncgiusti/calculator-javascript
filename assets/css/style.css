@@ -8,12 +8,13 @@
 body{
     background-color: whitesmoke;
     padding: 40px 0;
+    cursor: pointer;
 }
 
 .calculator {
     width: 400px;
     margin: 0 auto;
-    background-color: #FBAB18;
+    background-color: #3f4555;
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 0 15px black;
@@ -26,11 +27,15 @@ body{
     height: 100px;
     margin-bottom: 20px;
     padding: 15px;
-    background-color: black;
-    color: white;
+    background-color: #dae3e5;
+    color: black;
     font: normal 4rem serif;
     overflow: hidden;
     border-radius: 5px;
+}
+
+input {
+    border: 0px;
 }
 
 .calculator-buttons{
@@ -40,17 +45,24 @@ body{
 }
 
 .calculator button{
-    background-color: black;
+    background-color: #676a75;
     color: white;
     padding: 20px;
     border-radius: 5px;
     font-size: 1.5rem;
     outline: none;
     cursor: pointer;
-    border: 2px solid black;
+    border: 2px solid #676a75;
 }
 
 button:hover{
-    background-color: #FBAB18;
+    background-color: #dae3e5;
     color: black;
 }
+
+#color {
+    background-color: #3f4555;
+    border: none;
+}
+
+
