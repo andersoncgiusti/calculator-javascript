@@ -6,8 +6,8 @@
 - HTML
 - Javascript
 
-<p align="center">
-  <a target="blank">![](href=“https://andersoncgiusti.github.io/calculator-javascript/“)Calculator</a>
-</p>
+[Sites Using React](https://github.com/facebook/react/wiki/Sites-Using-React)
+
+
 
 
