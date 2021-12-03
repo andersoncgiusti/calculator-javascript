@@ -6,7 +6,9 @@
 - HTML
 - Javascript
 
-[Sites Using React](https://github.com/facebook/react/wiki/Sites-Using-React)
+<p align="center">
+  [Calculator](href=“https://andersoncgiusti.github.io/calculator-javascript/“
+</p>
 
 
 
