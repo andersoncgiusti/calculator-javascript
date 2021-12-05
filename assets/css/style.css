@@ -38,6 +38,7 @@ body{
 
 input {
     border: 0px;
+    text-align: right;
 }
 
 .calculator-buttons{

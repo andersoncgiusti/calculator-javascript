@@ -38,7 +38,7 @@ createCalculator = () => {
             icon: 'error',
             iconColor: '#3f4555',
             title: 'Oops...',
-            text: 'THERE WAS SOMETHING WRONG',
+            text: 'INSERT A VALUE ',
             showConfirmButton: true,
             confirmButtonText: 'OK',
             confirmButtonColor: '#3f4555',
@@ -49,7 +49,7 @@ createCalculator = () => {
       } catch(e) {
         Swal.fire({
           icon: 'error',
-          iconColor: '#3f45558',
+          iconColor: '#3f4555',
           title: 'Oops...',
           text: 'THERE WAS SOMETHING WRONG',
           showConfirmButton: true,
