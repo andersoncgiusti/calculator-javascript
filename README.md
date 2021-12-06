@@ -6,7 +6,7 @@
 - HTML
 - Javascript
 
-[Calculator](https://andersoncgiusti.github.io/calculator-javascript/)
+[View Calculator](https://andersoncgiusti.github.io/calculator-javascript/)
 
 
 
